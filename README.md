@@ -9,14 +9,18 @@
 
 ### Skill Set
 
-• AWS
-• Terraform
-• Kubernetes
-• Docker
-• Jenkins
-• CICD
-• Helm
-• Python
-• Prometheus and Grafana
-• Elasticsearch
-• GIT
+- Cloud: AWS
+- Infrastructure as a Code (IAAC): Terraform
+- Orchestration: Kubernetes
+- Containerization: Docker
+- CI: Jenkins
+- CD: Helm, ArgoCD
+- Logging: Elasticsearch-Kibana
+- Monitoring: InfluxDB / Prometheus – Grafana
+- Programming Language: Python
+- Databases: Mysql / AWS Aurora / MongoDB / AWS DynamoDB
+
+### Contact Me
+
+- LinkedIn Profile: www.linkedin.com/in/samarthkanungo
+- Email: sma0392in@gmail.com
