@@ -1,4 +1,4 @@
-### Samarth Kanungo
+## Samarth Kanungo
 
 ### About Me
   
