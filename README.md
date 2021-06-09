@@ -26,4 +26,3 @@
 ### Contact Me
 
 - LinkedIn Profile: www.linkedin.com/in/samarthkanungo
-- Email: sma0392in@gmail.com
