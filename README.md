@@ -1,4 +1,7 @@
 ## Samarth Kanungo
+![logo](./img/aws.png "icon" ) 
+
+![logo](./img/cka.png "icon" )
 
 ### About Me
   
@@ -8,7 +11,7 @@
 - Experienced in setting up and Maintaining Logging with Elasticsearch-Kibana and Monitoring using Grafana.
 
 ### Skill Set
-
+![logo](./img/aws-logo.png "icon" )  ![logo](./img/k8s.png "icon" )  ![logo](./img/docker.png "icon" ) ![logo](./img/python.png "icon" )  ![logo](./img/go.png "icon" )
 - Cloud: AWS
 - Infrastructure as a Code (IAAC): Terraform
 - Orchestration: Kubernetes
@@ -17,7 +20,7 @@
 - CD: Helm, ArgoCD
 - Logging: Elasticsearch-Kibana
 - Monitoring: InfluxDB / Prometheus – Grafana
-- Programming Language: Python
+- Programming Language: Python, Golang
 - Databases: Mysql / AWS Aurora / MongoDB / AWS DynamoDB
 
 ### Contact Me
