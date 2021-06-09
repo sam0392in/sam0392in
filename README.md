@@ -1,4 +1,4 @@
-## Samarth Kanungo
+# Samarth Kanungo
 ![logo](./img/aws.png "icon" ) 
 
 ![logo](./img/cka.png "icon" )
@@ -11,7 +11,7 @@
 - Experienced in setting up and Maintaining Logging with Elasticsearch-Kibana and Monitoring using Grafana.
 
 ### Skill Set
-![logo](./img/aws-logo.png "icon" )  ![logo](./img/k8s.png "icon" )  ![logo](./img/docker.png "icon" ) ![logo](./img/python.png "icon" )  ![logo](./img/go.png "icon" )
+![logo](./img/aws-logo.png "icon" ) ![logo](./img/terraform.png "icon" )  ![logo](./img/k8s.png "icon" )  ![logo](./img/docker.png "icon" )  ![logo](./img/go.png "icon" ) ![logo](./img/python.png "icon" )
 - Cloud: AWS
 - Infrastructure as a Code (IAAC): Terraform
 - Orchestration: Kubernetes
